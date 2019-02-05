@@ -82,17 +82,17 @@ rect(270,200,20,20);
 fill(0,0,0,20);
 rect(270,220,20,20);
 //cuarta hilera
-noFill()
+noFill();
 rect(290,160,20,20);
 fill(0,0,0,160);
 rect(290,180,20,20);
-noFill()
+noFill();
 rect(290,200,20,20);
 fill(0,0,0);
 rect(290,220,20,20);
 ellipse(-115,45,275,275);
 //figura deforme
-beginShape()
+beginShape();
 //parte superior
 fill(90,0,100);
 stroke(50,0,50);
@@ -126,7 +126,7 @@ curveVertex(180,190);
 curveVertex(155,155);
 curveVertex(90,150);
 curveVertex(80,150);
-endShape(CLOSE)
+endShape(CLOSE);
 //circulo 
 fill(255,255,255);
 ellipse(170,100,30,30);
@@ -135,8 +135,4 @@ stroke(255,230,20);
 fill(255,230,20);
 triangle(270,30,270,60,190,80);
 
-}
-
-function draw() {
-  
 }
