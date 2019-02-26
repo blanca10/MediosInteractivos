@@ -1,4 +1,4 @@
-//borrador//
+///borrador//
 var posXrec1 =10;
 var posYrec1 =10;
 var altoRec1= 40;
@@ -285,8 +285,9 @@ function draw() {
       background(255);
        fill(150,100,150);
   rect(0,0,windowWidth,60);
-  fill(240);
-ellipse(windowWidth+20,0+20,420,420);
+  fill(230);
+  ellipse(windowWidth+10,0+10,450,450);
+  
 }
 
 if(mouseX > posXbol1
@@ -296,8 +297,9 @@ if(mouseX > posXbol1
   background(200,0,90);
   fill(80,0,100,95);
   rect(0,0,windowWidth,60);
-  fill(240);
-   ellipse(windowWidth+20,0+20,420,420);
+  fill(230);
+  ellipse(windowWidth+10,0+10,450,450);
+  
   }
   
   //bolita rosada
