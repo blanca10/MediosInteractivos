@@ -5,5 +5,5 @@
 [codigo](https://github.com/blanca10/MediosInteractivos/blob/master/02/Prueba_final_.js)
 3. [03 pinguino](https://blanca10.github.io/MediosInteractivos/03/) /
 [codigo](https://github.com/blanca10/MediosInteractivos/blob/master/03/sketch_03.js)
-4. [App 04 plataforma dibujo diseño de modas](https://blanca10.github.io/MediosInteractivos/App_04/) /
+4. [App 04 plataforma dibujo](https://blanca10.github.io/MediosInteractivos/App_04/) /
 [codigo](https://github.com/blanca10/MediosInteractivos/blob/master/App_04/sketch_App_04.js)
