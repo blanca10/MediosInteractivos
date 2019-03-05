@@ -9,4 +9,4 @@
 [codigo](https://github.com/blanca10/MediosInteractivos/blob/master/04/sketch_04.js)
 
 4. [05 plataforma](https://blanca10.github.io/MediosInteractivos/05/) /
-[codigo](https://github.com/blanca10/MediosInteractivos/blob/master/05/sketch_05.js)
+[codigo](https://github.com/blanca10/MediosInteractivos/blob/master/05/Ayudita_Cesar.js)
