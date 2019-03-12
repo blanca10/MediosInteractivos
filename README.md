@@ -10,5 +10,5 @@
 
 5. [05 plataforma](https://blanca10.github.io/MediosInteractivos/05/) /
 [codigo](https://github.com/blanca10/MediosInteractivos/blob/master/05/Ayudita_Cesar.js)
-6.[06 plataforma](https://blanca10.github.io/MediosInteractivos/06/) /
+6. [06 plataforma](https://blanca10.github.io/MediosInteractivos/06/) /
 [codigo](https://github.com/blanca10/MediosInteractivos/blob/master/06/intento_con_menos_tristeza.js)
