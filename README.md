@@ -8,7 +8,7 @@
 4. [04 plataforma](https://blanca10.github.io/MediosInteractivos/04/) /
 [codigo](https://github.com/blanca10/MediosInteractivos/blob/master/04/sketch_04.js)
 
-5. [05 plataforma](https://blanca10.github.io/MediosInteractivos/05/) /
+5. [05 snake](https://blanca10.github.io/MediosInteractivos/05/) /
 [codigo](https://github.com/blanca10/MediosInteractivos/blob/master/05/Ayudita_Cesar.js)
-6. [06 plataforma](https://blanca10.github.io/MediosInteractivos/06/) /
+6. [06 reloj](https://blanca10.github.io/MediosInteractivos/06/) /
 [codigo](https://github.com/blanca10/MediosInteractivos/blob/master/06/intento_con_menos_tristeza.js)
