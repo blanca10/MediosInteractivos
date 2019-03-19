@@ -13,4 +13,5 @@
 6. [06 reloj](https://blanca10.github.io/MediosInteractivos/06/) /
 [codigo](https://github.com/blanca10/MediosInteractivos/blob/master/06/intento_con_menos_tristeza.js)
 
-7. 
+7. [Soft_mom_2019_03_19_18_41_42](https://blanca10.github.io/MediosInteractivos/Soft_mom_2019_03_19_18_41_42/) /
+[codigo](https://github.com/blanca10/MediosInteractivos/blob/master/Soft_mom_2019_03_19_18_41_42/sketch.js)
