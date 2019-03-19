@@ -13,5 +13,4 @@
 6. [06 reloj](https://blanca10.github.io/MediosInteractivos/06/) /
 [codigo](https://github.com/blanca10/MediosInteractivos/blob/master/06/intento_con_menos_tristeza.js)
 
-7. [07 canción](https://blanca10.github.io/MediosInteractivos/07/) /
-[codigo](https://github.com/blanca10/MediosInteractivos/blob/master/07/sketch_07.js)
+7. 
