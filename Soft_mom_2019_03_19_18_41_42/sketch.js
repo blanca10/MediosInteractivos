@@ -150,8 +150,7 @@ if(frameCount >=600 && frameCount< 800){
   if(mouseIsPressed == true){
     //if (miCancion.isPlaying ()== true{
        
-      //cuando presiono el mouse salta a la mitad de la cancion  
-    //miCancion.jump(dur/2);
+      //cuando presiono el mouse se pone en pausa
     
     //para que aumente un segundo hacia adelante cuando
     //presiono el mouse
