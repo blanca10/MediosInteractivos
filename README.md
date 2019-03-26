@@ -15,3 +15,7 @@
 
 7. [Soft_mom_2019_03_19_18_41_42](https://blanca10.github.io/MediosInteractivos/Soft_mom_2019_03_19_18_41_42/) /
 [codigo](https://github.com/blanca10/MediosInteractivos/blob/master/Soft_mom_2019_03_19_18_41_42/sketch.js)
+
+8. [sketch_08](https://blanca10.github.io/MediosInteractivos/sketch_08/) /
+[codigo](https://github.com/blanca10/MediosInteractivos/blob/master/sketch_08)
+
