@@ -19,8 +19,6 @@
 8. [sketch_08](https://blanca10.github.io/MediosInteractivos/sketch_08/) /
 [codigo](https://github.com/blanca10/MediosInteractivos/blob/master/sketch_08)
 
-9. [_09 ecosistema](https://blanca10.github.io/MediosInteractivos/sketch_09/) /
-[codigo](https://github.com/blanca10/MediosInteractivos/blob/master/sketch_09)
-
-
+[09](https://blanca10.github.io/MediosInteractivos/09/) /
+[codigo](https://github.com/blanca10/MediosInteractivos/blob/master/09/sketch_09.js)
 
