@@ -20,5 +20,5 @@
 [codigo](https://github.com/blanca10/MediosInteractivos/blob/master/sketch_08)
 
 9. [09](https://blanca10.github.io/MediosInteractivos/09/) /
-[codigo](https://github.com/blanca10/MediosInteractivos/blob/master/09/sketch_09.js)
+[codigo](https://github.com/blanca10/MediosInteractivos/blob/master/09/_09.js)
 
