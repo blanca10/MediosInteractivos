@@ -22,3 +22,6 @@
 9. [09 ecosistemas](https://blanca10.github.io/MediosInteractivos/09/) /
 [codigo](https://github.com/blanca10/MediosInteractivos/blob/master/09/sketch.js)
 
+10. [10 Artistas](https://blanca10.github.io/MediosInteractivos/10/) /
+[codigo](https://github.com/blanca10/MediosInteractivos/blob/master/10/sketch.js)
+
