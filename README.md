@@ -25,3 +25,9 @@
 10. [10 Artistas](https://blanca10.github.io/MediosInteractivos/10/) /
 [codigo](https://github.com/blanca10/MediosInteractivos/blob/master/10/sketch.js)
 
+11. [12 gráfica](https://blanca10.github.io/MediosInteractivos/12/) /
+[codigo](https://github.com/blanca10/MediosInteractivos/blob/master/10/sketch.js)
+
+
+
+
