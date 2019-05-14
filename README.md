@@ -31,6 +31,9 @@
 12. [ pre-entrega](https://blanca10.github.io/MediosInteractivos/intro_datos_2019_05_07_20_03_12/) /
 [codigo](https://github.com/blanca10/MediosInteractivos/blob/master/10/sketch.js)
 
+13. [entrega](https://blanca10.github.io/MediosInteractivos/intro_datos_2019_05_07_20_03_final/) /
+[codigo](https://github.com/blanca10/MediosInteractivos/blob/master/10/sketch.js)
+
 
 
 
